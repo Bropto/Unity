@@ -1,8 +1,10 @@
 작성자 장원영
+팀 : 장원영 김도언 이상훈
 
 담당 파트 : 검사 캐릭터(Maria), 싱글톤 패턴의 데이터관리(UI-DataController), 랭킹시스템, 스킬트리
 
 소개영상 편집본 :  https://youtu.be/THTVPOIGpHY
+
 소개PPT 다운로드(구글드라이브) : https://drive.google.com/file/d/1n9JpRhXjaXcrcsiu_Aox5lSsveP_4Bvv/view?usp=sharing
 
 빌드 파일 다운로드(구글드라이브) :
