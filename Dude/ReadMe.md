@@ -3,7 +3,7 @@
 
 담당 파트 : 검사 캐릭터(Maria), 싱글톤 패턴의 데이터관리(UI-DataController), 랭킹시스템, 스킬트리
 
-소개영상 편집본 :  [유튜브 링크](https://youtu.be/THTVPOIGpHY)  
+소개영상 편집본 :  [유튜브 링크](https://youtu.be/THTVPOIGpHY){ : target="_blank"}  
 
 소개PPT 다운로드(구글드라이브) : https://drive.google.com/file/d/1n9JpRhXjaXcrcsiu_Aox5lSsveP_4Bvv/view?usp=sharing
 
