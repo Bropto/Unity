@@ -6,10 +6,8 @@
 소개영상 편집본 :  [유튜브 링크](https://youtu.be/THTVPOIGpHY)
 
 
-소개PPT 다운로드(구글드라이브) : https://drive.google.com/file/d/1n9JpRhXjaXcrcsiu_Aox5lSsveP_4Bvv/view?usp=sharing
+소개PPT 다운로드 : [구글 드라이브 링크](https://drive.google.com/file/d/1n9JpRhXjaXcrcsiu_Aox5lSsveP_4Bvv/view?usp=sharing)
 
-빌드 파일 다운로드(구글드라이브) :
-https://drive.google.com/file/d/1oFkVPjJP2OBAzbI1wY8m_z7UtB4Yxk24/view?usp=sharing
+빌드 파일 다운로드 : [구글 드라이브 링크](https://drive.google.com/file/d/1oFkVPjJP2OBAzbI1wY8m_z7UtB4Yxk24/view?usp=sharing)
 
-프로젝트 파일 다운로드(구글드라이브)(Unity2020.3.29f1) :
-https://drive.google.com/file/d/1ritooL_jO6S_Y3iOHQQWuNrl1cILdVql/view?usp=sharing
+프로젝트 파일 다운로드(Unity2020.3.29f1) : [구글 드라이브 링크](https://drive.google.com/file/d/1ritooL_jO6S_Y3iOHQQWuNrl1cILdVql/view?usp=sharing)
